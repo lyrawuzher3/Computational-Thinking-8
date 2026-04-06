@@ -89,5 +89,5 @@ if talkative_points > in_between_points and talkative_points > quiet_points:
     print("You are a talkative person! You love to hangout with your friends and you give off energy to the people around you!")
 if in_between_points > talkative_points and in_between_points > quiet_points:
     print("You are a little bit of everything! You tend to be quiet sometimes but you are selectively talkative to the people you know and love! You're not too much and you're not too little!")
-if quiet_points > talkative_points and quiet_points > in_between_points:\
+if quiet_points > talkative_points and quiet_points > in_between_points:
     print("You are quiet and observant! You tend to be a little less social but you are nice and caring!")
